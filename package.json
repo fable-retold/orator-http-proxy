@@ -39,13 +39,13 @@
     "homepage": "https://github.com/stevenvelozo/orator-http-proxy#readme",
     "dependencies": {
         "http-proxy": "^1.18.1",
-        "orator-serviceserver-base": "^1.0.6"
+        "orator-serviceserver-base": "^1.0.8"
     },
     "devDependencies": {
-        "fable": "^3.1.55",
-        "orator": "^6.0.1",
-        "orator-serviceserver-restify": "^2.0.7",
-        "pict-docuserve": "^0.1.5",
-        "quackage": "^1.1.0"
+        "fable": "^3.1.72",
+        "orator": "^6.1.2",
+        "orator-serviceserver-restify": "^2.0.11",
+        "pict-docuserve": "^1.0.1",
+        "quackage": "^1.2.3"
     }
 }
