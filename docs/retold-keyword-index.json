@@ -1,6 +1,7 @@
 {
-	"Generated": "2026-04-10T17:23:04.947Z",
-	"DocumentCount": 0,
+	"Generated": "2026-05-22T05:41:17.879Z",
+	"Mode": "module",
+	"DocumentCount": 4,
 	"LunrIndex": {
 		"version": "2.3.9",
 		"fields": [
@@ -9,11 +10,2063 @@
 			"group",
 			"body"
 		],
-		"fieldVectors": [],
-		"invertedIndex": [],
+		"fieldVectors": [
+			[
+				"title/README.md",
+				[
+					0,
+					3.035,
+					1,
+					3.412,
+					2,
+					3.707
+				]
+			],
+			[
+				"module/README.md",
+				[
+					0,
+					1.724,
+					1,
+					1.939,
+					2,
+					2.106
+				]
+			],
+			[
+				"group/README.md",
+				[]
+			],
+			[
+				"body/README.md",
+				[
+					0,
+					0.632,
+					1,
+					0.711,
+					2,
+					0.799,
+					3,
+					0.302,
+					4,
+					0.302,
+					5,
+					0.197,
+					6,
+					0.561,
+					7,
+					0.595,
+					8,
+					1.473,
+					9,
+					1.02,
+					10,
+					0.995,
+					11,
+					1.473,
+					12,
+					1.02,
+					13,
+					0.166,
+					14,
+					0.512,
+					15,
+					0.436,
+					16,
+					1.729,
+					17,
+					0.848,
+					18,
+					0.848,
+					19,
+					0.587,
+					20,
+					1.02,
+					21,
+					1.02,
+					22,
+					0.587,
+					23,
+					0.587,
+					24,
+					1.02,
+					25,
+					1.02,
+					26,
+					0.587,
+					27,
+					0.995,
+					28,
+					0.587,
+					29,
+					0.302,
+					30,
+					1.02,
+					31,
+					1.02,
+					32,
+					0.587,
+					33,
+					0.848,
+					34,
+					1.02,
+					35,
+					1.02,
+					36,
+					0.129,
+					37,
+					1.02,
+					38,
+					1.02,
+					39,
+					1.02,
+					40,
+					1.02,
+					41,
+					0.587,
+					42,
+					1.02,
+					43,
+					0.587,
+					44,
+					1.02,
+					45,
+					1.02,
+					46,
+					1.02,
+					47,
+					0.587,
+					48,
+					0.848,
+					49,
+					0.848,
+					50,
+					0.848,
+					51,
+					0.436,
+					52,
+					0.302,
+					53,
+					0.587,
+					54,
+					0.302,
+					55,
+					0.587,
+					56,
+					0.848,
+					57,
+					1.473,
+					58,
+					1.02,
+					59,
+					1.02,
+					60,
+					0.512,
+					61,
+					0.587,
+					62,
+					0.587,
+					63,
+					1.02,
+					64,
+					1.02,
+					65,
+					1.02,
+					66,
+					0.089,
+					67,
+					1.02,
+					68,
+					1.02,
+					69,
+					1.02,
+					70,
+					1.02,
+					71,
+					1.02,
+					72,
+					1.473,
+					73,
+					1.02
+				]
+			],
+			[
+				"title/_cover.md",
+				[
+					0,
+					3.035,
+					1,
+					3.412,
+					2,
+					3.707
+				]
+			],
+			[
+				"module/_cover.md",
+				[
+					0,
+					1.724,
+					1,
+					1.939,
+					2,
+					2.106
+				]
+			],
+			[
+				"group/_cover.md",
+				[]
+			],
+			[
+				"body/_cover.md",
+				[
+					0,
+					0.588,
+					1,
+					0.745,
+					2,
+					0.809,
+					3,
+					0.497,
+					4,
+					0.497,
+					5,
+					0.18,
+					6,
+					0.497,
+					7,
+					0.497,
+					13,
+					0.147,
+					15,
+					0.497,
+					27,
+					0.965,
+					36,
+					0.147,
+					43,
+					0.965,
+					47,
+					0.965,
+					48,
+					0.965,
+					49,
+					0.965,
+					50,
+					0.965,
+					51,
+					0.497,
+					52,
+					0.497,
+					54,
+					0.497,
+					66,
+					0.147,
+					74,
+					1.677
+				]
+			],
+			[
+				"title/configuration.md",
+				[
+					36,
+					1.363
+				]
+			],
+			[
+				"module/configuration.md",
+				[
+					0,
+					1.724,
+					1,
+					1.939,
+					2,
+					2.106
+				]
+			],
+			[
+				"group/configuration.md",
+				[]
+			],
+			[
+				"body/configuration.md",
+				[
+					1,
+					0.292,
+					2,
+					0.702,
+					3,
+					0.478,
+					4,
+					0.268,
+					5,
+					0.079,
+					7,
+					0.567,
+					10,
+					0.777,
+					13,
+					0.079,
+					14,
+					0.4,
+					17,
+					0.777,
+					18,
+					0.522,
+					19,
+					0.522,
+					29,
+					0.268,
+					36,
+					0.167,
+					51,
+					0.567,
+					52,
+					0.4,
+					53,
+					0.929,
+					54,
+					0.658,
+					55,
+					0.522,
+					56,
+					0.522,
+					60,
+					0.764,
+					61,
+					0.522,
+					62,
+					0.522,
+					75,
+					0.906,
+					76,
+					0.906,
+					77,
+					0.906,
+					78,
+					0.522,
+					79,
+					0.906,
+					80,
+					1.614,
+					81,
+					1.35,
+					82,
+					1.35,
+					83,
+					0.906,
+					84,
+					0.906,
+					85,
+					0.906,
+					86,
+					0.906,
+					87,
+					0.906,
+					88,
+					0.906,
+					89,
+					0.906,
+					90,
+					0.906,
+					91,
+					0.906,
+					92,
+					0.906,
+					93,
+					0.906,
+					94,
+					1.614,
+					95,
+					1.35,
+					96,
+					0.906,
+					97,
+					1.614,
+					98,
+					0.906,
+					99,
+					0.906,
+					100,
+					1.614,
+					101,
+					0.906,
+					102,
+					0.906,
+					103,
+					0.906,
+					104,
+					0.906,
+					105,
+					1.35,
+					106,
+					0.906,
+					107,
+					0.906,
+					108,
+					0.906,
+					109,
+					0.906
+				]
+			],
+			[
+				"title/getting-started.md",
+				[
+					66,
+					1.104,
+					110,
+					7.262
+				]
+			],
+			[
+				"module/getting-started.md",
+				[
+					0,
+					1.724,
+					1,
+					1.939,
+					2,
+					2.106
+				]
+			],
+			[
+				"group/getting-started.md",
+				[]
+			],
+			[
+				"body/getting-started.md",
+				[
+					2,
+					0.813,
+					5,
+					0.172,
+					6,
+					0.461,
+					13,
+					0.136,
+					14,
+					0.636,
+					15,
+					0.668,
+					22,
+					0.896,
+					23,
+					0.896,
+					26,
+					0.896,
+					28,
+					1.129,
+					29,
+					0.461,
+					32,
+					0.896,
+					33,
+					0.896,
+					41,
+					0.896,
+					60,
+					0.461,
+					66,
+					0.136,
+					78,
+					0.896,
+					110,
+					0.896,
+					111,
+					1.557,
+					112,
+					1.557,
+					113,
+					1.557,
+					114,
+					1.557,
+					115,
+					1.557,
+					116,
+					2.254,
+					117,
+					1.557,
+					118,
+					1.961,
+					119,
+					1.557,
+					120,
+					1.557
+				]
+			]
+		],
+		"invertedIndex": [
+			[
+				"",
+				{
+					"_index": 60,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"0",
+				{
+					"_index": 89,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"abstract",
+				{
+					"_index": 70,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"add",
+				{
+					"_index": 107,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"addit",
+				{
+					"_index": 95,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"api",
+				{
+					"_index": 32,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"applic",
+				{
+					"_index": 41,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"architectur",
+				{
+					"_index": 25,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"array",
+				{
+					"_index": 84,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"backend",
+				{
+					"_index": 15,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"base",
+				{
+					"_index": 43,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"basic",
+				{
+					"_index": 114,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"boolean",
+				{
+					"_index": 100,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"both",
+				{
+					"_index": 75,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"built",
+				{
+					"_index": 79,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"call",
+				{
+					"_index": 33,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"certif",
+				{
+					"_index": 103,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"chang",
+				{
+					"_index": 104,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"check",
+				{
+					"_index": 76,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"client",
+				{
+					"_index": 30,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"combin",
+				{
+					"_index": 119,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"come",
+				{
+					"_index": 64,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"common",
+				{
+					"_index": 22,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"configur",
+				{
+					"_index": 36,
+					"title": {
+						"configuration.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"constructor",
+				{
+					"_index": 53,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"default",
+				{
+					"_index": 80,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"delet",
+				{
+					"_index": 50,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"descript",
+				{
+					"_index": 82,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"destin",
+				{
+					"_index": 16,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"differ",
+				{
+					"_index": 118,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"directli",
+				{
+					"_index": 99,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"each",
+				{
+					"_index": 63,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"enabl",
+				{
+					"_index": 108,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"exampl",
+				{
+					"_index": 97,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"fabl",
+				{
+					"_index": 7,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"face",
+				{
+					"_index": 31,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"featur",
+				{
+					"_index": 42,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"file",
+				{
+					"_index": 29,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"forward",
+				{
+					"_index": 8,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"framework",
+				{
+					"_index": 73,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"frontend",
+				{
+					"_index": 26,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"get",
+				{
+					"_index": 110,
+					"title": {
+						"getting-started.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"github",
+				{
+					"_index": 74,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"handl",
+				{
+					"_index": 27,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"handler",
+				{
+					"_index": 62,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"header",
+				{
+					"_index": 105,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"higher",
+				{
+					"_index": 91,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"hood",
+				{
+					"_index": 21,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"http",
+				{
+					"_index": 1,
+					"title": {
+						"README.md": {},
+						"_cover.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"implement",
+				{
+					"_index": 113,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"incom",
+				{
+					"_index": 9,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"infrastructur",
+				{
+					"_index": 38,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"instal",
+				{
+					"_index": 111,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"instanti",
+				{
+					"_index": 78,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"instead",
+				{
+					"_index": 35,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"intercept",
+				{
+					"_index": 85,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"json",
+				{
+					"_index": 98,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"level",
+				{
+					"_index": 39,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"librari",
+				{
+					"_index": 19,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"log",
+				{
+					"_index": 87,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"main",
+				{
+					"_index": 69,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"map",
+				{
+					"_index": 96,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"match",
+				{
+					"_index": 11,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"microservic",
+				{
+					"_index": 24,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"modul",
+				{
+					"_index": 61,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"more",
+				{
+					"_index": 92,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"multi",
+				{
+					"_index": 45,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"multipl",
+				{
+					"_index": 116,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"need",
+				{
+					"_index": 112,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"number",
+				{
+					"_index": 86,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"object",
+				{
+					"_index": 94,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"option",
+				{
+					"_index": 54,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"orat",
+				{
+					"_index": 0,
+					"title": {
+						"README.md": {},
+						"_cover.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"order",
+				{
+					"_index": 77,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"origin",
+				{
+					"_index": 55,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"output",
+				{
+					"_index": 93,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"packag",
+				{
+					"_index": 68,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"pass",
+				{
+					"_index": 3,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"pattern",
+				{
+					"_index": 23,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"post",
+				{
+					"_index": 49,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"prefix",
+				{
+					"_index": 14,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"provid",
+				{
+					"_index": 56,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"proxi",
+				{
+					"_index": 2,
+					"title": {
+						"README.md": {},
+						"_cover.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"put",
+				{
+					"_index": 48,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"quick",
+				{
+					"_index": 65,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"quiet",
+				{
+					"_index": 90,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"regist",
+				{
+					"_index": 57,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"relat",
+				{
+					"_index": 67,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"request",
+				{
+					"_index": 10,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"restifi",
+				{
+					"_index": 72,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"revers",
+				{
+					"_index": 37,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"right",
+				{
+					"_index": 40,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"rout",
+				{
+					"_index": 13,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"same",
+				{
+					"_index": 117,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"separ",
+				{
+					"_index": 34,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"serv",
+				{
+					"_index": 120,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"server",
+				{
+					"_index": 6,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"servic",
+				{
+					"_index": 5,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"serviceserv",
+				{
+					"_index": 71,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"set",
+				{
+					"_index": 51,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"setup",
+				{
+					"_index": 115,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"specif",
+				{
+					"_index": 44,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"specifi",
+				{
+					"_index": 12,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"ssl",
+				{
+					"_index": 102,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"standard",
+				{
+					"_index": 58,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"start",
+				{
+					"_index": 66,
+					"title": {
+						"getting-started.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"static",
+				{
+					"_index": 28,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"string",
+				{
+					"_index": 83,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"support",
+				{
+					"_index": 47,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"target",
+				{
+					"_index": 106,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"through",
+				{
+					"_index": 4,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"type",
+				{
+					"_index": 81,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"under",
+				{
+					"_index": 20,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"url",
+				{
+					"_index": 17,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"us",
+				{
+					"_index": 18,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"verb",
+				{
+					"_index": 46,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"verbos",
+				{
+					"_index": 88,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"verifi",
+				{
+					"_index": 101,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"via",
+				{
+					"_index": 52,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"websocket",
+				{
+					"_index": 109,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"work",
+				{
+					"_index": 59,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			]
+		],
 		"pipeline": [
 			"stemmer"
 		]
 	},
-	"Documents": {}
+	"Documents": {
+		"README.md": {
+			"Title": "Orator HTTP Proxy",
+			"Module": "orator-http-proxy",
+			"Group": "",
+			"DocPath": "README.md"
+		},
+		"_cover.md": {
+			"Title": "Orator HTTP Proxy",
+			"Module": "orator-http-proxy",
+			"Group": "",
+			"DocPath": "_cover.md"
+		},
+		"configuration.md": {
+			"Title": "Configuration",
+			"Module": "orator-http-proxy",
+			"Group": "",
+			"DocPath": "configuration.md"
+		},
+		"getting-started.md": {
+			"Title": "Getting Started",
+			"Module": "orator-http-proxy",
+			"Group": "",
+			"DocPath": "getting-started.md"
+		}
+	}
 }
