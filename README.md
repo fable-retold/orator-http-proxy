@@ -1,5 +1,7 @@
 # Orator HTTP Proxy
 
+> **[&#9654; Read the Orator-Http-Proxy Documentation](https://stevenvelozo.github.io/orator-http-proxy/)** &mdash; interactive docs with the full API reference.
+
 > HTTP proxy pass-through for Orator service servers
 
 Orator HTTP Proxy provides a simple way to forward incoming requests to a backend service. Register route prefixes that should be proxied, point them at a destination URL, and the module handles the rest. This is useful for microservice architectures where a frontend server needs to proxy API calls to a separate backend service.
