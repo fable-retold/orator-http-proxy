@@ -62,6 +62,6 @@ _Fable.Orator.initialize(
 
 ## Related Packages
 
-- [orator](https://github.com/stevenvelozo/orator) - Main Orator service abstraction
-- [orator-serviceserver-restify](https://github.com/stevenvelozo/orator-serviceserver-restify) - Restify service server
-- [fable](https://github.com/stevenvelozo/fable) - Service provider framework
+- [orator](https://github.com/fable-retold/orator) - Main Orator service abstraction
+- [orator-serviceserver-restify](https://github.com/fable-retold/orator-serviceserver-restify) - Restify service server
+- [fable](https://github.com/fable-retold/fable) - Service provider framework

@@ -29,14 +29,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/stevenvelozo/orator-http-proxy.git"
+        "url": "git+https://github.com/fable-retold/orator-http-proxy.git"
     },
     "author": "steven velozo <steven@velozo.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/stevenvelozo/orator-http-proxy/issues"
+        "url": "https://github.com/fable-retold/orator-http-proxy/issues"
     },
-    "homepage": "https://github.com/stevenvelozo/orator-http-proxy#readme",
+    "homepage": "https://github.com/fable-retold/orator-http-proxy#readme",
     "dependencies": {
         "http-proxy": "^1.18.1",
         "orator-serviceserver-base": "^1.0.8"

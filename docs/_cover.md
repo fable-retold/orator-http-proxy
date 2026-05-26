@@ -7,5 +7,5 @@
 - Configurable via options or Fable settings
 - Handles HTTP-to-HTTPS proxying
 
-[GitHub](https://github.com/stevenvelozo/orator-http-proxy)
+[GitHub](https://github.com/fable-retold/orator-http-proxy)
 [Get Started](#orator-http-proxy)
