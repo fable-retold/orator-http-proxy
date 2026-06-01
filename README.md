@@ -1,6 +1,6 @@
 # Orator HTTP Proxy
 
-> **[&#9654; Read the Orator-Http-Proxy Documentation](https://fable-retold.github.io/orator-http-proxy/)** &mdash; interactive docs with the full API reference.
+> **[Read the Orator-Http-Proxy Documentation](https://fable-retold.github.io/orator-http-proxy/)** - interactive docs with the full API reference.
 
 > HTTP proxy pass-through for Orator service servers
 
